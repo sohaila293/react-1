@@ -1,0 +1,300 @@
+.numbers{
+    background-color: #a82d49;
+    color: #fff;
+    padding: 25px 0px;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+}
+.numbers h2{
+    font-size: 50px;
+    font-weight: bold;
+    margin: 10px 0px;
+    color: #fff;
+    font-family: 'Tajawal';
+}
+.numbers h6{
+    text-transform: uppercase;
+    color: #fff;
+    font-family: 'Tajawal';
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.numbers .row{
+    margin: 10px 0px;
+}
+.pride, .ingradients{
+    padding: 25px 0px;
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin-top: 60px;
+    background-color: transparent;
+}
+.pride img, .ingradients img{
+    max-width: 100%;
+    border-radius: 10px;
+}
+.pride h2{
+    font-size: 35px;
+    width: 80%;
+    line-height: 50px;
+    font-weight: bold;
+    margin: 10px 0px;
+    color: #a82d49;
+    font-family: 'Tajawal';
+}
+.pride p{
+    font-size: 16px;
+    line-height: 28px;
+    color: #333;
+    font-family: 'Tajawal';
+    margin-top: 15px;
+}
+.pride button{
+    background-color: #a82d49;
+    border: 1px solid #a82d49;
+    box-sizing: border-box;
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    margin-top: 20px;
+    transition: .2 ease;
+}
+.pride button a{
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Tajawal';
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.pride button:hover a{
+    color: #a82d49;
+}
+.pride button:hover{
+    background-color: #fff;
+}
+.ingradients{
+    margin-top: 50px;
+    max-width: 100%;
+    height: auto;
+    text-align: left;
+    overflow: hidden;
+}
+.ingradients h2, .paralex h2{
+    font-size: 35px;
+    width: 80%;
+    line-height: 50px;
+    font-weight: bold;
+    margin: 10px 0px;
+    color: #a82d49;
+    font-family: 'Tajawal';
+}
+.ingradients p, .paralex p{
+    font-size: 16px;
+    line-height: 38px;
+    color: #333;
+    font-family: 'Tajawal';
+    margin-top: 15px;
+}
+.ingradients button{
+    background-color: #a82d49;
+    border: 1px solid #a82d49;
+    box-sizing: border-box;
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    margin-top: 20px;
+    transition: .2 ease;
+}
+.ingradients button a{
+    display: block;
+    text-decoration: none;
+    font-family: 'Tajawal';
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #fff;
+}
+.ingradients button:hover a{
+    color: #a82d49;
+}
+.ingradients button:hover{
+    background-color: #fff;
+}
+.ingradients ul li{
+    list-style-type: square;
+    margin-top: 10px;
+    color: #333;
+    font-family: 'Tajawal';
+    line-height: 28px;
+}
+.ingradients ul{
+    padding: 0;
+    margin-top: 20px;
+}
+.paralex{
+    background: url("../../images/3.jpeg") center no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    padding: 30px 0;
+}
+.paralex a{
+    color: #a82d49;
+    font-size: 20px;
+    text-decoration: none;
+    margin: 20px 0px;
+    font-family: 'Tajawal';
+    border: 1px solid #fff;
+    padding: 10px;
+    font-weight: bold;
+}
+.paralex h2{
+    width: 100%;
+}
+.paralex .row{
+    margin: 50px 0px;
+}
+.paralex p{
+    color: #444;
+    margin: 70px 0px;
+    line-height: 32px;
+}
+.blogs{
+    margin-top: 50px;
+    padding: 25px 0px;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+.blogs .row:first-child{
+    text-align: center;
+    margin: 25px 0px;
+}
+.blogs h2, .asking h2{
+    font-size: 45px;
+    width: 100%;
+    line-height: 50px;
+    font-weight: bold;
+    margin: 10px 0px;
+    color: #a82d49;
+    font-family: 'Tajawal';
+}
+.blogs p, .asking p{
+    font-size: 16px;
+    line-height: 28px;
+    color: #333;
+    font-family: 'Tajawal';
+    margin-top: 15px;
+}
+.blogs .box img{
+    max-width: 100%;
+}
+.blogs .box{
+    border: 1px solid #f6f6f6;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    box-sizing: border-box;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.blogs .box h5, .asking h5{
+    color: #a82d49;
+    font-family: 'Tajawal';
+    font-size: 22px;
+    margin: 15px 0px;
+}
+.blogs .box span{
+    color: #444;
+    font-family: 'Tajawal';
+    font-size: 16px;
+    margin: 10px 0px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    display: block;
+}
+.blogs .box h6{
+    font-size: 25px;
+    color: #390814;
+    font-family: 'Tajawal';
+}
+.blogs button{
+    width: 140px;
+    height: 40px;
+    background-color: #a82d49;
+    border: 1px solid #a82d49;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 10px 0px;
+    transition: 0.3s ease-in-out;
+}
+.blogs button a{
+    color: #fff;
+    text-transform: uppercase;
+    font-family: 'Tajawal';
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none !important;
+    letter-spacing: 1px;
+}
+.blogs button:hover a{
+    color: #a82d49;
+}
+.blogs button:hover{
+    background-color: transparent;
+}
+.sliderx{
+    background-color: #a82d49;
+    border: 1px solid #a82d49;
+    width: 100%;
+    max-width: 100%;
+    text-align: center;
+    padding: 50px 0px;
+    margin: 50px 0px;
+}
+.sliderx img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 20px 0px;
+    margin-bottom: 150px;
+}
+.sliderx .Carousel.Caption p{
+    color: #212121;
+    font-size: 17px;
+    line-height: 30px;
+}
+.sliderx .Carousel.Caption span{
+    color: #a82d49;
+    display: block;
+    margin: 15px 0px;
+    text-transform: uppercase;
+    font-size: 17px;
+}
+.sliderx .Carousel{
+    margin: 40px 0px;
+    background-color: #fff;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    border-radius: 10px;
+    padding: 25px 0px;
+}
+.sliderx h2{
+    color: #fff;
+    font-family: 'Tajawal';
+    font-size: 35px;
+    font-weight: bold;
+
+}
+.asking{
+    text-align: center;
+    margin: 150px 0px;
+}
+.asking h5{
+    margin: 35px 0px;
+}
